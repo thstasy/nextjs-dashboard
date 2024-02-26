@@ -1,0 +1,17 @@
+1. WebPack and also latest vercel version needed. 
+Server Error
+Error: Cannot find module './vendor-chunks/@vercel.js'
+Require stack:
+- /Users/stasy/Desktop/next_app_new/nextjs-dashboard/.next/server/webpack-runtime.js
+- /Users/stasy/Desktop/next_app_new/nextjs-dashboard/.next/server/app/dashboard/page.js
+- /Users/stasy/Desktop/next_app_new/nextjs-dashboard/node_modules/next/dist/server/require.js
+- /Users/stasy/Desktop/next_app_new/nextjs-dashboard/node_modules/next/dist/server/load-components.js
+- /Users/stasy/Desktop/next_app_new/nextjs-dashboard/node_modules/next/dist/build/utils.js
+- /Users/stasy/Desktop/next_app_new/nextjs-dashboard/node_modules/next/dist/server/dev/hot-middleware.js
+- /Users/stasy/Desktop/next_app_new/nextjs-dashboard/node_modules/next/dist/server/dev/hot-reloader-webpack.js
+- /Users/stasy/Desktop/next_app_new/nextjs-dashboard/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/stasy/Desktop/next_app_new/nextjs-dashboard/node_modules/next/dist/server/lib/router-server.js
+- /Users/stasy/Desktop/next_app_new/nextjs-dashboard/node_modules/next/dist/server/lib/start-server.js
+
+This error happened while generating the page. Any console logs will be displayed in the terminal window.
+2. 
